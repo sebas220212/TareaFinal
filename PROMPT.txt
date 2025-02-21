@@ -1,0 +1,13 @@
+Estoy diseñando un sitio web que incluye varias secciones. El encabezado contará con un espacio para el logo, pestañas de navegación y una barra de búsqueda. En el cuerpo de la página, se presentará un banner carrusel con navegación mediante flechas y puntos indicadores.
+
+A continuación, habrá un carrusel de tarjetas, seguido de una sección dividida en dos columnas: la primera contendrá texto y la segunda mostrará imágenes relacionadas, cada una dentro de su propio recuadro.
+
+Más abajo, se incluirá un formulario genérico para el envío de información. Finalmente, el pie de página contendrá un mapa junto con información de contacto, enlaces a redes sociales y un número de WhatsApp.
+
+Necesito que me generes el código en HTML, CSS y JavaScript para las siguientes partes:
+
+Banner carrusel con navegación por flechas y puntos indicadores.
+Footer con mapa, datos de contacto y enlaces a redes sociales con íconos interactivos y resaltado al pasar el cursor.
+Encabezado, que incluya el logo, pestañas de navegación y una barra de búsqueda.
+Sección de dos columnas, donde el texto y las imágenes estén en recuadros separados.
+Formulario de envío genérico para la sección correspondiente.
